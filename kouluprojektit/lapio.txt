@@ -1,2 +1,6 @@
 Tämä on lapio.
+<<<<<<< Updated upstream
 Lapiolla kaivetaan.
+=======
+Lapiolla täytetään.
+>>>>>>> Stashed changes
